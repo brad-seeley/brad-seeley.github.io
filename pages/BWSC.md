@@ -1,4 +1,4 @@
-##BWSC - TeamArrow solar car
+## BWSC - TeamArrow solar car
 
 
 I have spent 4 years as a member of TeamArrow Racing Association, a volunteer-run group in Brisbane that competes in the biennial Bridgestone World Solar Challenge (BWSC). 
@@ -11,6 +11,6 @@ During my time at TeamArrow I spent 2 years as President and 1 year as Treasurer
 I led the steering installation, based on my thesis as listed earlier. I was also responsible for the engineering approval of the occupant cell, simulating front, side and rollover impacts in ANSYS and SolidWorks FEA tools. I was one of the active members in building all parts of the car, from the chassis, crossmembers, suspension, aero body, brakes, steering, and driver controls. 
 
 
-[Home]("./..")
+[Home](./..)
 
 

@@ -1,14 +1,14 @@
 # Engineering & Professional Portfolio
 
-### Brad Seeley
+## Brad Seeley
 
 <img src="./imgs/self-pic.png" height="400">
 
 [LinkedIn](https://www.linkedin.com/in/brad-seeley/)
 
 **Bs Engineering (Hons)**<br>
-- **Major:** Mechanical
-- **Minors:** Software & IT
+**Major:** Mechanical<br>
+**Minors:** Software & IT<br>
 
 ### Read more about:
 [Undergraduate thesis on cable steering](./pages/thesis.html)<br>

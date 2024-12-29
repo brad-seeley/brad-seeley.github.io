@@ -11,6 +11,8 @@
 **Minors:** Software & IT<br>
 
 ### Read more about:
-[Undergraduate thesis on cable steering](./pages/thesis.html)<br>
+[Undergraduate thesis on cable steering](./pages/thesis.md)<br>
+[Competing with TeamArrow in the BWSC](./pages/BWSC.md)<br>
 [Competing with TeamArrow in the BWSC](./pages/BWSC.html)<br>
-[The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.html)<br>
+
+[The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.md)<br>

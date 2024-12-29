@@ -1,6 +1,9 @@
 # Engineering & Professional Portfolio
 
 ### Brad Seeley
+
+![self picture of me](./imgs/self-pic.png)
+
 [LinkedIn](https://www.linkedin.com/in/brad-seeley/)
 
 **Bs Engineering (Hons)**

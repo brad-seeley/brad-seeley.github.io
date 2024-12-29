@@ -7,8 +7,8 @@
 [LinkedIn](https://www.linkedin.com/in/brad-seeley/)
 
 **Bs Engineering (Hons)**<br>
-	Major: Mechanical<br>
-	Minors: Software & IT
+- **Major:** Mechanical
+- **Minors:** Software & IT
 
 ### Read more about:
 [Undergraduate thesis on cable steering](./pages/thesis.html)<br>

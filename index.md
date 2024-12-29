@@ -1,13 +1,24 @@
-# Engineering & Professional Portfolio
+<h2>Engineering & Professional Portfolio</h2>
 
-### Brad Seeley
-[LinkedIn](https://www.linkedin.com/in/brad-seeley/)
+<h4>Brad Seeley</h4></br>
+<a href="https://www.linkedin.com/in/brad-seeley/">LinkedIn</a>
+</br>
 
-**Bs Engineering (Hons)**
-	Major: Mechanical
-	Minors: Software & IT
 
-### Read more about:
-[Undergraduate thesis on cable steering](./pages/thesis.html)
-[Competing with TeamArrow in the BWSC](/.pages/BWSC.html)
-[The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.html)
+<bold>Bs Engineering (Hons)</bold>
+<tab><h6>Major: Mechanical</h6>
+<tab><h6>Minors: Software & IT</h6>
+</br>
+
+<h4>Read more about:</h4>
+<a href="./pages/thesis.html">
+<strong>My undergraduate thesis on cable steering
+</strong>	</a>	</br>
+<a href="./pages/BWSC.html">
+<strong>My time at TeamArrow competing in the BWSC
+</strong>	</a>	</br>
+<a href="./pages/solar-car-certification.html">
+<strong>The 2023 adventure of passing BWSC scrutineering.
+<strong>	</a>	</br>
+
+

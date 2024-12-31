@@ -12,11 +12,11 @@
 
 ### Read more about:
 
-|<img width="250px">|<img width="450px">|
+|<img width="250">|<img width="450">|
 |:---:|:---:|
 |![Thesis thumbnail](./imgs/thesis-thumbnail.png)|[Undergraduate thesis on cable steering](./pages/thesis.md)|
 |![BWSC thumbnail](./imgs/BWSC-thumbnail.png)|[Competing with TeamArrow in the BWSC](./pages/BWSC.md)|
-
+|<img src="./imgs/ceritfication-thumbnail.png" height="200" width="200"/>|[The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.md)|
 
 
  <table>

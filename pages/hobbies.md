@@ -11,7 +11,7 @@ Other recent projects have included repairing my bikes, film camera/s, and other
 
 
 <img src="./../../imgs/jimny-image-1.png" alt="My 'gold nugget', a 2006 Suzuki Jimny." height="350">
-<img src="./../../imgs/jimny-engine-1.png" alt="Upgrading the engine in my JB43 Suzuki Jimny to an M15." height="350">
+<img src="./../../imgs/jimny-engine-swap-1.png" alt="Upgrading the engine in my JB43 Suzuki Jimny to an M15." height="350">
 <img src="./../../imgs/jimny-gearbox-1.png" alt="Rebuilding the gearbox in my JB43 Suzuki Jimny." height="350">
 <img src="./../../imgs/MTB-repair-1.png" alt="Removing the snapped dropout set-screw from my MTB." height="350">
 <img src="./../../imgs/camera-repair-1.png" alt="Cleaning and repairing the shutter and lens of a film camera." height="350">

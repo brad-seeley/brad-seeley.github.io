@@ -12,17 +12,17 @@
 
 ### Read more about:
 
-|: <img src="./imgs/thesis-thumbnail.png" alt="Thesis thumbnail"> :|: <img src="./imgs/BWSC-thumbnail.png" alt="BWSC thumbnail"> :|
+|: <img src="./imgs/thesis-thumbnail.png" alt="Thesis thumbnail" height="200" width="200"> :|: <img src="./imgs/BWSC-thumbnail.png" alt="BWSC thumbnail" height="200" width="200"> :|
 |: [Undergraduate thesis on cable steering](./pages/thesis.md)	  :|: [Competing with TeamArrow in the BWSC](./pages/BWSC.md) 	 :|
 <br>
-|: <img src="./imgs/certification.png" alt="Certification thumbnail"> :|: <img src="./imgs/traineeship-thumbnail.png" alt="traineeship thumbnail"> :|
+|: <img src="./imgs/certification.png" alt="Certification thumbnail" height="200" width="200"> :|: <img src="./imgs/traineeship-thumbnail.png" alt="traineeship thumbnail" height="200" width="200"> :|
 |: [The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.md) :|: [Certificate II in Engineering traineeship](./pages/traineeship.md) :|
 
-|: <img src="./imgs/FMECA-thumbnail.png" alt="FMECA thumbnail">   :|: <img src="./imgs/plotly-thumbnail.png" alt="plotly thumbnail"> :|
-|: [TMP/FMECA development](./pages/TMP-FMECA.md) 		  :|: [Python plotly-dash dashboard](./pages/plotly.md) 	     :|
+|: <img src="./imgs/FMECA-thumbnail.png" alt="FMECA thumbnail" height="200" width="200"> :|: <img src="./imgs/plotly-thumbnail.png" alt="plotly thumbnail" height="200" width="200"> :|
+|: [TMP/FMECA development](./pages/TMP-FMECA.md) :|: [Python plotly-dash dashboard](./pages/plotly.md) :|
 
-|: <img src="./imgs/hobbies-thumbnail.png" alt="hobbies thumbnail"> :|
-|: [Hobbies & personal projects](./pages/hobbies.md) 		    :|
+|: <img src="./imgs/hobbies-thumbnail.png" alt="hobbies thumbnail" height="200" width="200"> :|
+|: [Hobbies & personal projects](./pages/hobbies.md) :|
 
 
 

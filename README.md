@@ -14,7 +14,7 @@
 
 |<div style="width:290px">   </div>|   |
 |:---:|:---:|
-|![Thesis thumbnail](./imgs/thesis-thumbnail.png)|[Undergraduate thesis on cable steering](./pages/thesis.md)|
+|![Thesis thumbnail](./imgs/thesis-thumbnail.png 200x200)|[Undergraduate thesis on cable steering](./pages/thesis.md)|
 |![BWSC thumbnail](./imgs/BWSC-thumbnail.png)|[Competing with TeamArrow in the BWSC](./pages/BWSC.md)|
 |<img src="./imgs/certification-thumbnail.png" height="200" width="200"/>|[The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.md)|
 

@@ -19,7 +19,10 @@
 <br>
 [Undergraduate thesis on cable steering](./pages/thesis)
 </td><td width="250px">
+</td></tr><tr><td>
 <img src="./imgs/BWSC-thumbnail.png" alt="BWSC thumbnail" height="200" width="200">
+</td><td>
+</td><td>
 <a href="./pages/BWSC.md">Competing with TeamArrow in the BWSC</a>
 </td></tr>
 <tr><td>

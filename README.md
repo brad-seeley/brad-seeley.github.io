@@ -12,9 +12,9 @@
 
 ### Read more about:
 
-|   |   |
+|<img width=250px>|<img width=450/>|
 |:---:|:---:|
-|![Thesis thumbnail](./imgs/thesis-thumbnail.png)|[Undergraduate thesis on cable steering](./pages/thesis.md)|
+|<img src="./imgs/thesis-thumbnail.png" alt="Thesis thumbnail" height="200" width="200")|[Undergraduate thesis on cable steering](./pages/thesis.md)|
 |![BWSC thumbnail](./imgs/BWSC-thumbnail.png)|[Competing with TeamArrow in the BWSC](./pages/BWSC.md)|
 
 

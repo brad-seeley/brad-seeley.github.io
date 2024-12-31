@@ -14,3 +14,6 @@
 [Undergraduate thesis on cable steering](./pages/thesis.md)<br>
 [Competing with TeamArrow in the BWSC](./pages/BWSC.md)<br>
 [The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.md)<br>
+[Certificate II in Engineering traineeship](./pages/traineeship.md)<br>
+[TMP/FMECA development](./pages/TMP-FMECA.md)<br>
+

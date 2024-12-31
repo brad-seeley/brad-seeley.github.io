@@ -20,9 +20,9 @@
 <img src="./imgs/BWSC-thumbnail.png" alt="BWSC thumbnail" height="200" width="200">
 </td></tr>
 <tr><td>
-[Undergraduate thesis on cable steering](./pages/thesis.md)
+<a href="./pages/thesis.md>Undergraduate thesis on cable steering</a>
 </td><td>
-[Competing with TeamArrow in the BWSC](./pages/BWSC.md)
+<a href="./pages/BWSC.md">Competing with TeamArrow in the BWSC</a>
 </td></tr>
 <tr><td>
 <img src="./imgs/certification.png" alt="Certification thumbnail" height="200" width="200">
@@ -30,9 +30,9 @@
 <img src="./imgs/traineeship-thumbnail.png" alt="traineeship thumbnail" height="200" width="200">
 </td></tr>
 <tr><td>
-[The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.md)
+<a href="./pages/solar-car-certification.md">The 2023 adventure of passing BWSC scrutineering</a>
 </td><td>
-[Certificate II in Engineering traineeship](./pages/traineeship.md)
+<a href="./pages/traineeship.md">Certificate II in Engineering traineeship</a>
 </td></tr>
 <tr><td>
 <img src="./imgs/FMECA-thumbnail.png" alt="FMECA thumbnail" height="200" width="200">
@@ -40,15 +40,15 @@
 <img src="./imgs/plotly-thumbnail.png" alt="plotly thumbnail" height="200" width="200">
 </td></tr>
 <tr><td>
-[TMP/FMECA development](./pages/TMP-FMECA.md)
+<a href="./pages/TMP-FMECA.md">TMP/FMECA development</a>
 </td><td>
-[Python plotly-dash dashboard](./pages/plotly.md)
+<a href="./pages/plotly.md">Python plotly-dash dashboard</a>
 </td></tr>
 <tr><td>
-<img src="./imgs/hobbies-thumbnail.png" alt="hobbies thumbnail" height="200" width="200">
+<img src="./imgs/jimny-thumbnail.png" alt="hobbies thumbnail" height="200" width="200">
 </td></tr>
 <tr><td>
-[Hobbies & personal projects](./pages/hobbies.md)
+<a href="./pages/hobbies.md">Hobbies & personal projects</a>
 </td></tr>
 </table>
 

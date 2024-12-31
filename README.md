@@ -16,7 +16,8 @@
 <tr>
 <td width="250px">
 <img src="./imgs/thesis-thumbnail.png" alt="Thesis thumbnail" height="200" width="200">
-<a href="./pages/thesis.md">Undergraduate thesis on cable steering</a>
+<br>
+[Undergraduate thesis on cable steering](./pages/thesis)
 </td><td width="250px">
 <img src="./imgs/BWSC-thumbnail.png" alt="BWSC thumbnail" height="200" width="200">
 <a href="./pages/BWSC.md">Competing with TeamArrow in the BWSC</a>

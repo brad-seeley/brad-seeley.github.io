@@ -12,6 +12,8 @@
 
 ### Read more about:
 
+|   |   |
+|---|---|
 |: <img src="./imgs/thesis-thumbnail.png" alt="Thesis thumbnail" height="200" width="200"> :|: <img src="./imgs/BWSC-thumbnail.png" alt="BWSC thumbnail" height="200" width="200"> :|
 |: [Undergraduate thesis on cable steering](./pages/thesis.md)	  :|: [Competing with TeamArrow in the BWSC](./pages/BWSC.md) 	 :|
 <br>

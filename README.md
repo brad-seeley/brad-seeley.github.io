@@ -16,4 +16,6 @@
 [The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.md)<br>
 [Certificate II in Engineering traineeship](./pages/traineeship.md)<br>
 [TMP/FMECA development](./pages/TMP-FMECA.md)<br>
+[Python plotly-dash dashboard](./pages/plotly.md)<br>
+[Hobbies & personal projects](./pages/hobbies.md)<br>
 

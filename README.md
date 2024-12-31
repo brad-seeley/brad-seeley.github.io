@@ -14,7 +14,6 @@
 
 |[<img src="./imgs/thesis-thumbnail.png" height="200" width="200"/>](./imgs/thesis-thumbnail.png =200x200)|[Undergraduate thesis on cable steering](./pages/thesis.md)|
 |:---:|:---|
-|[<img src="./imgs/thesis-thumbnail.png" height="200" width="200"/>](./imgs/thesis-thumbnail.png)|**[Undergraduate thesis on cable steering](./pages/thesis.md)**|
 |[<img src="./imgs/BWSC-thumbnail.png" height="200" width="200"/>](./imgs/BWSC-thumbnail.png)|**[Competing with TeamArrow in the BWSC](./pages/BWSC.md)**|
 |[<img src="./imgs/certification-thumbnail.png" height="200" width="200"/>](./imgs/certification-thumbnail.png)|**[The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.md)**|
 |[<img src="./imgs/traineeship-thumbnail.png" width="200" height="200"/>](./imgs/traineeship-thumbnail.png)|**[Certificate II in Engineering](./pages/traineeship.md)**|

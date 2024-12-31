@@ -12,16 +12,21 @@
 
 ### Read more about:
 
-<table>
-<tr>
-<td width="250px">
+|   |   |
+|:---:|:---:|
+|![Thesis thumbnail](./imgs/thesis-thumbnail.png)|[Undergraduate thesis on cable steering](./pages/thesis.md)|
+|![BWSC thumbnail](./imgs/BWSC-thumbnail.png)|[Competing with TeamArrow in the BWSC](./pages/BWSC.md)|
+
+
+
+ <table>
+<tr><td width="250px">
 <img src="./imgs/thesis-thumbnail.png" alt="Thesis thumbnail" height="200" width="200">
 <br>
-[Undergraduate thesis on cable steering](./pages/thesis)
+[Undergraduate thesis on cable steering](./pages/thesis.md)
+<br>
 </td><td width="250px">
-</td></tr><tr><td>
 <img src="./imgs/BWSC-thumbnail.png" alt="BWSC thumbnail" height="200" width="200">
-</td><td>
 </td><td>
 <a href="./pages/BWSC.md">Competing with TeamArrow in the BWSC</a>
 </td></tr>

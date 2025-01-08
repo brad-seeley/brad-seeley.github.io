@@ -6,7 +6,7 @@
 
 Hi there, <br>
 My name is Brad Seeley. I am a mechanical and software engineer living in the UK. <br>
-Thanks for checking out my page. While you're here, lease take a look below at some of the projects I have worked on. 
+Thanks for checking out my page. While you're here, please take a look below at some of the projects I have worked on. 
 
 **Bs Engineering (Hons)**<br>
 **Major:** Mechanical<br>

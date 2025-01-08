@@ -4,11 +4,15 @@
 
 <img src="./imgs/self-pic.png" height="400">
 
-[LinkedIn](https://www.linkedin.com/in/brad-seeley/)
+Hi there, 
+My name is Brad Seeley. I am a mechanical and software engineer living in the UK. 
+Please take a look below at some of the projects I have worked on. 
 
 **Bs Engineering (Hons)**<br>
 **Major:** Mechanical<br>
 **Minors:** Software & IT<br>
+
+[LinkedIn](https://www.linkedin.com/in/brad-seeley/)
 
 ### Read more about:
 

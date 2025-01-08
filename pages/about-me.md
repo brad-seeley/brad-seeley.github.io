@@ -12,8 +12,8 @@ I also completed an exchange program, spending a semester abroad in Birmingham U
 
 **My professional experience:**<br>
 I have been working as an analyst/consultant for almost 7 years now. 
-My first role was an unpaid one in mining consulting, that I turned into a part-time position. I enjoyed this work and it supported me through the final years of university. 
-After a few years, I was keen to switch to more technical engineering. I then moved to Airbus, using my previous experience, aiming to move to the Engineering department. 
+My first role was an unpaid one in mining consulting, that I turned into a part-time position. I enjoyed this work and it supported me through the final years of university. <br>
+After a few years, I was keen to switch to more technical engineering. I moved to Airbus using my previous experience, aiming to move to the Engineering department. 
 Unfortunately, closure of a national contract saw me finish there in December 2023. With a move overseas in the coming months, I moved back to mining consulting to fill this gap. 
 <br>
 

@@ -1,6 +1,7 @@
 title: Brad Seeley
 description: Engineering & Professional portfolio
 show_downloads: false
+remote_theme: pages-themes/modernist@v0.2.0
 
 #theme: architect
 #remote_theme: pages-themes/architect@v0.2.0
@@ -11,11 +12,11 @@ show_downloads: false
 #theme: minimal
 #remote_theme: pages-themes/minimal@v0.2.0
 
-#theme: 
-remote_theme: pages-themes/modernist@v0.2.0
+#theme: modernist
+#remote_theme: pages-themes/modernist@v0.2.0
 
-#theme: 
+#theme: slate
 #remote_theme: pages-themes/slate@v0.2.0
 
-#theme: 
+#theme: tactile
 #remote_theme: pages-themes/tactile@v0.2.0

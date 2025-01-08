@@ -19,9 +19,9 @@ Thanks for checking out my page. While you're here, please take a look below at 
 
 
 ### Read more about:
-
-|[<img src="./imgs/thumbnails/self-thumbnail.png" height="200" width="200"/>](./imgs/thumbnails/self-thumbnail.png)|[About me](./pages/about-me.md)|
+|     |    | 
 |:---:|:---|
+|[<img src="./imgs/thumbnails/self-thumbnail.png" height="200" width="200"/>](./imgs/thumbnails/self-thumbnail.png)|[About me](./pages/about-me.md)|
 |[<img src="./imgs/thumbnails/thesis-thumbnail.png" height="200" width="200"/>](./imgs/thumbnails/thesis-thumbnail.png)|[Undergraduate thesis on cable steering](./pages/thesis.md)|
 |[<img src="./imgs/thumbnails/BWSC-thumbnail.png" height="200" width="200"/>](./imgs/thumbnails/BWSC-thumbnail.png)|**[Competing with TeamArrow in the BWSC](./pages/BWSC.md)**|
 |[<img src="./imgs/thumbnails/certification-thumbnail.png" height="200" width="200"/>](./imgs/thumbnails/certification-thumbnail.png)|**[The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.md)**|

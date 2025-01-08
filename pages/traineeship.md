@@ -12,8 +12,8 @@ Completing my Certificate II meant I was trained on all manner of workshop equip
 **Achievement:** North Brisbane Health Trainee of the Year
 
 
-<img src="./../../imgs/traineeship-image-1.png" alt="cartoon of repairing a hospital bed" height="350">
-<img src="./../../imgs/traineeship-image-2.png" alt="example hospital bed I would repair" height="350">
+<img src="./../../imgs/traineeship-image-1.jpeg" alt="cartoon of repairing a hospital bed" height="350">
+<img src="./../../imgs/traineeship-image-2.jpeg" alt="example hospital bed I would repair" height="350">
 
 
 

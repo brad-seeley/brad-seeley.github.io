@@ -12,7 +12,7 @@ The final car was certified by our certifying engineer following my changes.
 
 
 
-<img src="./../../imgs/design-validation-various.png" alt="images of FEA validation for engineering approval." height="350">
+<img src="./../../imgs/design-validation-various.jpeg" alt="images of FEA validation for engineering approval." height="350">
 
 
 [Home](./..)

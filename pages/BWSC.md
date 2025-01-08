@@ -11,7 +11,7 @@ During my time at TeamArrow I spent 2 years as President and 1 year as Treasurer
 I led the steering installation, based on my thesis as listed earlier. I was also responsible for the engineering approval of the occupant cell, simulating front, side and rollover impacts in ANSYS and SolidWorks FEA tools. I was one of the active members in building all parts of the car, from the chassis, crossmembers, suspension, aero body, brakes, steering, and driver controls. 
 
 
-<img src="./../../imgs/BWSC-various.png" alt="Various images from working on solar cars" height="350">
+<img src="./../../imgs/BWSC-various.jpeg" alt="Various images from working on solar cars" height="350">
 
 
 [Home](./..)

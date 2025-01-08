@@ -9,8 +9,8 @@ While the team had previously used rack+pinion systems with success, the system 
 <br>
 **Grade: High Distinction (>85%)**
 
-<img src="./../../imgs/steering-image-1.png" alt="diagram of cable steering system" height="350">
-<img src="./../../imgs/steering-image-2.png" alt="FEA results of steering wheel under maximum loading" height="350">
+<img src="./../../imgs/steering-image-1.jpeg" alt="diagram of cable steering system" height="350">
+<img src="./../../imgs/steering-image-2.jpeg" alt="FEA results of steering wheel under maximum loading" height="350">
 
 
 [Home](./..)

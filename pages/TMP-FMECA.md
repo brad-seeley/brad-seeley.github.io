@@ -4,6 +4,7 @@
 Development of maintenance plans for clients for existing equipment. 
 These were built from first-principles using FMECAs, then grouping and turning into actionable maintenance plans. 
 <br>
+
 Example assets include: 
 - Lifting equipment (hoists, jib & gantry cranes)
 - Conveyor dewatering systems

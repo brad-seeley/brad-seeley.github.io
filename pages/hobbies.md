@@ -4,8 +4,10 @@
 
 I am a general fan of being outdoors – MTB, running, hiking, swimming, climbing, camping. 
 <br>
+
 My 'gold nugget' Suzuki Jimny – Engine swap, gearbox rebuild, rear wheel bearing and brake replacements, front swivel hub refurbishments, suspension bush replacements. 
 <br>
+
 Other recent projects have included repairing my bikes, film camera/s, and others.
 <br>
 

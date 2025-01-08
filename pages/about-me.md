@@ -4,9 +4,10 @@
 
 
 **My background:**<br>
-I grew up near Brisbane, Australia. Before going to university I completed a Certificate II in Engineering. 
-At university, I completed a Bachelor of Engineering (Honours), Majoring in Mechanical and Minors of Software Engineering and IT Breadth. 
-I also completed an exchange program, spending a semester abroad in Birmingham UK. 
+I grew up in Brisbane, Australia, where I studied at QUT. 
+I Completed a Bachelor of Engineering (Honours), Mechanical major and minors of Software Engineering and IT Breadth. <br>
+Before going to university I completed a Certificate II in Engineering, working with tradespeople to maintain equipment. 
+I also completed an exchange program, spending a semester abroad in Birmingham UK during university. 
 <br>
 
 **My professional experience:**<br>
@@ -22,7 +23,8 @@ This desire is a main reason I have been active in TeamArrow/World Solar Challen
 <br>
 
 **Why am I now in the UK?**<br>
-I moved to the UK with my partner to grow our personal and professional experiences. Jess works in marketing in central London, and the exposure for both of us to the larger industries in the UK is incredible. 
+I moved to the UK with my partner to grow our personal and professional experiences. 
+Jess works in marketing in central London, and the exposure for both of us to the larger industries in the UK is incredible. 
 <br>
 
 

@@ -18,9 +18,9 @@ Thanks for checking out my page. While you're here, please take a look below at 
 
 ### Read more about: 
 
-|[<img src="./imgs/thumbnails/self-thumbnail.jpeg" height="200" width="200"/>](./imgs/thumbnails/self-thumbnail.jpeg)|[About me](./pages/about-me.md)|
+|[<img src="./imgs/thumbnails/self-thumbnail.jpeg" height="200" width="200"/>](./pages/about-me.md)|[About me](./pages/about-me.md)|
 |:----:|:----|
-|[<img src="./imgs/thumbnails/thesis-thumbnail.jpeg" height="200" width="200"/>](./imgs/thumbnails/thesis-thumbnail.jpeg)|**[Undergraduate thesis on cable steering](./pages/thesis.md)**|
+|[<img src="./imgs/thumbnails/thesis-thumbnail.jpeg" height="200" width="200"/>](./pages/thesis.md)|**[Undergraduate thesis on cable steering](./pages/thesis.md)**|
 |[<img src="./imgs/thumbnails/BWSC-thumbnail.jpeg" height="200" width="200"/>](./imgs/thumbnails/BWSC-thumbnail.jpeg)|**[Competing with TeamArrow in the BWSC](./pages/BWSC.md)**|
 |[<img src="./imgs/thumbnails/certification-thumbnail.jpeg" height="200" width="200"/>](./imgs/thumbnails/certification-thumbnail.jpeg)|**[The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.md)**|
 |[<img src="./imgs/thumbnails/traineeship-thumbnail.jpeg" width="200" height="200"/>](./imgs/thumbnails/traineeship-thumbnail.jpeg)|**[Certificate II in Engineering](./pages/traineeship.md)**|

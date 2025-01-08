@@ -16,7 +16,8 @@ Thanks for checking out my page. While you're here, please take a look below at 
 
 [LinkedIn](https://www.linkedin.com/in/brad-seeley/) <br>
 
-### Read more about:<br>
+### Read more about: 
+
 |[<img src="./imgs/thumbnails/self-thumbnail.jpeg" height="200" width="200"/>](./imgs/thumbnails/self-thumbnail.jpeg)|[About me](./pages/about-me.md)|
 |:----:|:----|
 |[<img src="./imgs/thumbnails/thesis-thumbnail.jpeg" height="200" width="200"/>](./imgs/thumbnails/thesis-thumbnail.jpeg)|**[Undergraduate thesis on cable steering](./pages/thesis.md)**|

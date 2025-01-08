@@ -1,4 +1,4 @@
-### Design of steering system for 3-wheeled solar vehicle <br> Undergraduate Thesis project
+## Design of steering system for 3-wheeled solar vehicle <br> Undergraduate Thesis project
 
 
 As an avid member of TeamArrow Racing Association, I partnered with my university to complete my thesis on researching an innovative steering system for the upcoming vehicle. <br>

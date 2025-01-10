@@ -5,27 +5,7 @@
 
 Hi there, <br>
 My name is Brad Seeley. I am a mechanical and software engineer living in the UK. <br>
-Thanks for checking out my page. While you're here, please take a look below at some of the projects I have worked on. 
+[Please click here to see my page](https://brad-seeley.github.io)
 
-<img src="./imgs/self-pic.jpeg" height="400">
-
-
-**Bs Engineering (Hons)**<br>
-**Major:** Mechanical<br>
-**Minors:** Software & IT<br>
-
-[My LinkedIn profile](https://www.linkedin.com/in/brad-seeley/) <br>
-
-### Read more about: 
-
-|[<img src="./imgs/thumbnails/self-thumbnail.jpeg" height="200"/>](./pages/about-me.md)|[About me](./pages/about-me.md)|
-|:----:|:----|
-|[<img src="./imgs/thumbnails/thesis-thumbnail.jpeg" height="200"/>](./pages/thesis.md)|**[Undergraduate thesis on cable steering](./pages/thesis.md)**|
-|[<img src="./imgs/thumbnails/BWSC-thumbnail.jpeg" height="200"/>](./pages/BWSC.md)|**[Competing with TeamArrow in the BWSC](./pages/BWSC.md)**|
-|[<img src="./imgs/thumbnails/certification-thumbnail.jpeg" height="200"/>](./pages/solar-car-certification.md)|**[The 2023 adventure of passing BWSC scrutineering](./pages/solar-car-certification.md)**|
-|[<img src="./imgs/thumbnails/traineeship-thumbnail.jpeg"  height="200"/>](./pages/traineeship.md)|**[Certificate II in Engineering](./pages/traineeship.md)**|
-|[<img src="./imgs/thumbnails/FMECA-thumbnail.jpeg" height="200"/>](./pages/TMP-FMECA.md)|**[TMP/FMECA development](./pages/TMP-FMECA.md)**|
-|[<img src="./imgs/thumbnails/plotly-thumbnail.jpeg" height="200"/>](./pages/plotly.md)|**[Python plotly-dash dashboard](./pages/plotly.md)**|
-|[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" height="200"/>](./pages/hobbies.md)|**[Hobbies & personal projects](./pages/hobbies.md)**|
 
 

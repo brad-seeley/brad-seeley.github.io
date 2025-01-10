@@ -15,7 +15,7 @@ Example assets include:
 <img src="./../../imgs/FMECA-image-1.jpeg" alt="example process of FMECA and TMP development" height="350">
 
 
-[Home](./..)
+**[Home](./..)**
 
 
 <link href="style.css" type="text/css" rel="stylesheet">

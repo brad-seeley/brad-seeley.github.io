@@ -19,7 +19,7 @@ I was one of the active members in building all parts of the car, from the chass
 <img src="./../../imgs/BWSC-various.jpeg" alt="Various images from working on solar cars" height="350">
 
 
-[Home](./..)
+**[Home](./..)**
 
 
 <link href="style.css" type="text/css" rel="stylesheet">

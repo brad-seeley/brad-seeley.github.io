@@ -24,7 +24,7 @@ Completing my Certificate II meant I was trained on all manner of workshop equip
 
 
 
-[Home](./..)
+**[Home](./..)**
 
 
 <link href="style.css" type="text/css" rel="stylesheet">

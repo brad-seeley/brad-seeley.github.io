@@ -28,7 +28,7 @@ Jess works in marketing in central London, and the exposure for both of us to th
 <br>
 
 
-[Home](./..)
+**[Home](./..)**
 
 
 <link href="style.css" type="text/css" rel="stylesheet">

@@ -16,7 +16,7 @@ The output scatter plots were generated using **matplotlib** and **seaborn** lib
 <img src="./../../imgs/seaborn-jointplot-example.jpeg" alt="example output in seaborn" height="250">
 
 
-[Home](./..)
+**[Home](./..)**
 
 
 <link href="style.css" type="text/css" rel="stylesheet">

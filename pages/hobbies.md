@@ -19,7 +19,7 @@ Other recent projects have included repairing my bikes, film camera/s, and other
 <img src="./../../imgs/camera-repair-1.jpeg" alt="Cleaning and repairing the shutter and lens of a film camera." height="350">
 
 
-[Home](./..)
+**[Home](./..)**
 
 
 <link href="style.css" type="text/css" rel="stylesheet">

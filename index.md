@@ -14,7 +14,7 @@ Thanks for checking out my page. While you're here, please take a look below at 
 **Major:** Mechanical<br>
 **Minors:** Software & IT<br>
 
-[My LinkedIn profile](https://www.linkedin.com/in/brad-seeley/) <br>
+**[My LinkedIn profile](https://www.linkedin.com/in/brad-seeley/)** <br>
 
 ### Read more about: 
 

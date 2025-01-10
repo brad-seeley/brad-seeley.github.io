@@ -16,7 +16,7 @@ While the team had previously used rack+pinion systems with success, the system 
 <img src="./../../imgs/steering-image-2.jpeg" alt="FEA results of steering wheel under maximum loading" height="350">
 
 
-[Home](./..)
+**[Home](./..)**
 
 
 <link href="style.css" type="text/css" rel="stylesheet">

@@ -16,3 +16,6 @@ Example assets include:
 
 
 [Home](./..)
+
+
+<link href="./pages/style.css" type="text/css" rel="stylesheet">

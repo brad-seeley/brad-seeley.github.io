@@ -20,3 +20,6 @@ Other recent projects have included repairing my bikes, film camera/s, and other
 
 
 [Home](./..)
+
+
+<link href="./pages/style.css" type="text/css" rel="stylesheet">

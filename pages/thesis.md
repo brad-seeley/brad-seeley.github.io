@@ -17,3 +17,6 @@ While the team had previously used rack+pinion systems with success, the system 
 
 
 [Home](./..)
+
+
+<link href="./pages/style.css" type="text/css" rel="stylesheet">

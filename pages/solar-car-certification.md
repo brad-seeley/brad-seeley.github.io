@@ -24,4 +24,4 @@ The final car was certified by our certifying engineer following my changes.
 [Home](./..)
 
 
-<link href="./pages/style.css" type="text/css" rel="stylesheet">
+<link href="style.css" type="text/css" rel="stylesheet">

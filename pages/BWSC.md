@@ -22,4 +22,4 @@ I was one of the active members in building all parts of the car, from the chass
 [Home](./..)
 
 
-<link href="./pages/style.css" type="text/css" rel="stylesheet">
+<link href="style.css" type="text/css" rel="stylesheet">

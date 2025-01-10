@@ -3,6 +3,9 @@ description: Engineering & Professional portfolio
 show_downloads: false
 remote_theme: pages-themes/modernist@v0.2.0
 
+github:
+  is_project_page: false
+
 #theme: architect
 #remote_theme: pages-themes/architect@v0.2.0
 

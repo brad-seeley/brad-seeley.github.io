@@ -29,3 +29,4 @@ Thanks for checking out my page. While you're here, please take a look below at 
 |[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" height="200"/>](./pages/hobbies.md)|**[Hobbies & personal projects](./pages/hobbies.md)**|
 
 
+<link href="./pages/style.css" type="text/css" rel="stylesheet">

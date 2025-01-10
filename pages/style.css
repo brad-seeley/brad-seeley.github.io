@@ -11,3 +11,4 @@ footer {
     display: none !important;
 }
 
+ul li span { display: none }

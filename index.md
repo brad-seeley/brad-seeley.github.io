@@ -7,12 +7,8 @@ Hi there, <br>
 My name is Brad Seeley. I am a mechanical and software engineer living in the UK. <br>
 Thanks for checking out my page. While you're here, please take a look below at some of the projects I have worked on. 
 
-<img src="./imgs/self-pic.jpeg" height="400">
+[<img src="./imgs/medium/self-pic.jpeg" height="400">](./imgs/full/self-pic.jpeg)
 
-
-**Bs Engineering (Hons)**<br>
-**Major:** Mechanical<br>
-**Minors:** Software & IT<br>
 
 **[My LinkedIn profile](https://www.linkedin.com/in/brad-seeley/)** <br>
 

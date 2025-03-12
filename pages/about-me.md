@@ -3,11 +3,15 @@
 [<img src="./../../imgs/medium/personal-pic.jpeg" alt="picture of me" height="400">](./../../imgs/full/personal-pic.jpeg)
 
 
-**My background:**<br>
-I grew up in Brisbane, Australia, where I studied at QUT. 
+**My background/education:**<br>
+I grew up in Brisbane, Australia, where I studied at the Queensland University of Technology. 
 I Completed a Bachelor of Engineering (Honours), Mechanical major and minors of Software Engineering and IT Breadth. <br>
 Before going to university I completed a Certificate II in Engineering, working with tradespeople to maintain equipment. 
-I also completed an exchange program, spending a semester abroad in Birmingham UK during university. 
+I also completed an exchange program, spending a semester abroad in Birmingham UK during university. <br>
+**Bs Engineering (Hons)**<br>
+**Major:** Mechanical<br>
+**Minors:** Software & IT<br>
+
 <br>
 
 **My professional experience:**<br>

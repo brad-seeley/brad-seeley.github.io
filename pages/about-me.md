@@ -8,11 +8,12 @@ I grew up in Brisbane, Australia, where I studied at the Queensland University o
 I Completed a Bachelor of Engineering (Honours), Mechanical major and minors of Software Engineering and IT Breadth. <br>
 Before going to university I completed a Certificate II in Engineering, working with tradespeople to maintain equipment. 
 I also completed an exchange program, spending a semester abroad in Birmingham UK during university. <br>
+
+
 **Bs Engineering (Hons)**<br>
 **Major:** Mechanical<br>
 **Minors:** Software & IT<br>
 
-<br>
 
 **My professional experience:**<br>
 I have been working as an analyst/consultant for almost 7 years now. 

@@ -5,7 +5,7 @@ I have spent 5 years as a member of TeamArrow Racing Association, a volunteer-ru
 <br>
 
 In my first year, the team was modifying and racing previous vehicles, but from 2020 we started designing and building a new car (the teams’ third vehicle). 
-We raced this car in October 2023, despite our reduced budgets from previous attempts. 
+We raced this car in October 2023, despite our reduced budgets from previous attempts. <br>
 **[Read here for more information on the final design and signoff of this car](./solar-car-certification.md)**
 <br>
 

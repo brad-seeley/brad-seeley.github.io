@@ -1,6 +1,6 @@
 ## About me...
 
-<img src="./../../imgs/personal-pic.jpeg" alt="picture of me" height="400">
+[<img src="./../../imgs/personal-pic.jpeg" alt="picture of me" height="400">](./../../imgs/personal-pic.jpeg)
 
 
 **My background:**<br>

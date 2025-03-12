@@ -39,3 +39,4 @@ Jess works in marketing in central London, and the exposure for both of us to th
 
 
 <link href="style.css" type="text/css" rel="stylesheet">
+<style>td, th { border: none!important;} </style>

@@ -12,7 +12,7 @@ Example assets include:
 - Bulk Fuel & Lube Storage
 
 
-[<img src="./../../imgs/FMECA-image-1.jpeg" alt="example process of FMECA and TMP development" width="450">](./../../imgs/FMECA-image-1.jpeg)
+[<img src="./../../imgs/medium/FMECA-image-1.jpeg" alt="example process of FMECA and TMP development" width="450">](./../../imgs/full/FMECA-image-1.jpeg)
 
 
 **[Home](./..)**

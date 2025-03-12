@@ -18,7 +18,7 @@ The final car was certified by our certifying engineer following my changes.
 
 
 
-[<img src="./../../imgs/design-validation-various.jpeg" alt="images of FEA validation for engineering approval." width="450">](./../../imgs/design-validation-various.jpeg)
+[<img src="./../../imgs/medium/design-validation-various.jpeg" alt="images of FEA validation for engineering approval." width="450">](./../../imgs/full/design-validation-various.jpeg)
 
 
 **[Back](./BWSC.md)**

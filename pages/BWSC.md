@@ -18,10 +18,10 @@ I was one of the active members in building all parts of the car, from the chass
 <br>
 
 
-[<img src="./../../imgs/BWSC_Darwin_working.jpeg" alt="Image of me working on solar car in pit lane." width="450">](./../../imgs/BWSC_Darwin_working.jpeg)
-[<img src="./../../imgs/BWSC_Darwin_working_2.jpeg" alt="Image of me working on solar car in pit lane." width="450">](./../../imgs/BWSC_Darwin_working_2.jpeg)
-[<img src="./../../imgs/BWSC_Darwin_track.jpeg" alt="Tensions high while testing the car at the track." width="450">](./../../imgs/BWSC_Darwin_track.jpeg)
-[<img src="./../../imgs/BWSC-various.jpeg" alt="Various images from working on solar cars." width="450">](./../../imgs/BWSC-various.jpeg)
+[<img src="./../../imgs/medium/BWSC_Darwin_working.jpeg" alt="Image of me working on solar car in pit lane." width="450">](./../../imgs/full/BWSC_Darwin_working.jpeg)
+[<img src="./../../imgs/medium/BWSC_Darwin_working_2.jpeg" alt="Image of me working on solar car in pit lane." width="450">](./../../imgs/full/BWSC_Darwin_working_2.jpeg)
+[<img src="./../../imgs/medium/BWSC_Darwin_track.jpeg" alt="Tensions high while testing the car at the track." width="450">](./../../imgs/full/BWSC_Darwin_track.jpeg)
+[<img src="./../../imgs/medium/BWSC-various.jpeg" alt="Various images from working on solar cars." width="450">](./../../imgs/full/BWSC-various.jpeg)
 
 
 **[Home](./..)**

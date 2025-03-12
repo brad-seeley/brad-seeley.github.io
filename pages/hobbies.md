@@ -12,11 +12,11 @@ Other recent projects have included repairing my bikes, film camera/s, and other
 <br>
 
 
-[<img src="./../../imgs/jimny-image-1.jpeg" alt="My 'gold nugget', a 2006 Suzuki Jimny." width="450">](./../../imgs/jimny-image-1.jpeg)
-[<img src="./../../imgs/jimny-engine-swap-1.jpeg" alt="Upgrading the engine in my JB43 Suzuki Jimny to an M15." width="450">](./../../imgs/jimny-engine-swap-1.jpeg)
-[<img src="./../../imgs/jimny-gearbox-1.jpeg" alt="Rebuilding the gearbox in my JB43 Suzuki Jimny." width="450">](./../../imgs/jimny-gearbox-1.jpeg)
-[<img src="./../../imgs/MTB-repair-1.jpeg" alt="Removing the snapped dropout set-screw from my MTB." width="450">](./../../imgs/MTB-repair-1.jpeg)
-[<img src="./../../imgs/camera-repair-1.jpeg" alt="Cleaning and repairing the shutter and lens of a film camera." width="450">](./../../imgs/camera-repair-1.jpeg)
+[<img src="./../../imgs/medium/jimny-image-1.jpeg" alt="My 'gold nugget', a 2006 Suzuki Jimny." width="450">](./../../imgs/full/jimny-image-1.jpeg)
+[<img src="./../../imgs/medium/jimny-engine-swap-1.jpeg" alt="Upgrading the engine in my JB43 Suzuki Jimny to an M15." width="450">](./../../imgs/full/jimny-engine-swap-1.jpeg)
+[<img src="./../../imgs/medium/jimny-gearbox-1.jpeg" alt="Rebuilding the gearbox in my JB43 Suzuki Jimny." width="450">](./../../imgs/full/jimny-gearbox-1.jpeg)
+[<img src="./../../imgs/medium/MTB-repair-1.jpeg" alt="Removing the snapped dropout set-screw from my MTB." width="450">](./../../imgs/full/MTB-repair-1.jpeg)
+[<img src="./../../imgs/medium/camera-repair-1.jpeg" alt="Cleaning and repairing the shutter and lens of a film camera." width="450">](./../../imgs/full/camera-repair-1.jpeg)
 
 
 **[Home](./..)**

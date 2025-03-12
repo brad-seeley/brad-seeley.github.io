@@ -10,9 +10,9 @@ Before going to university I completed a Certificate II in Engineering, working 
 I also completed an exchange program, spending a semester abroad in Birmingham UK during university. <br>
 
 
-**Bs Engineering (Hons)**<br>
-**Major:** Mechanical<br>
-**Minors:** Software & IT<br>
+> **Bs Engineering (Hons)**<br>
+> **Major:** Mechanical<br>
+> **Minors:** Software & IT<br>
 
 
 **My professional experience:**<br>

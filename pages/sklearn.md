@@ -12,8 +12,8 @@ This then output a scatter plot file for the user.
 The final solution was packaged as an executable using **PyInstaller** to deploy on client sites. 
 The output scatter plots were generated using **matplotlib** and **seaborn** libraries. 
 
-<img src="./../../imgs/matplotlib-scatter-example.jpeg" alt="example output in matplotlib" height="250">
-<img src="./../../imgs/seaborn-jointplot-example.jpeg" alt="example output in seaborn" height="250">
+[<img src="./../../imgs/matplotlib-scatter-example.jpeg" alt="example output in matplotlib" width="350">](./../../imgs/matplotlib-scatter-example.jpeg)
+[<img src="./../../imgs/seaborn-jointplot-example.jpeg" alt="example output in seaborn" width="250">](./../../imgs/seaborn-jointplot-example.jpeg)
 
 
 **[Home](./..)**

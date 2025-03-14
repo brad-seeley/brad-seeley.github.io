@@ -16,16 +16,25 @@ Thanks for checking out my page. While you're here, please take a look below at 
 
 |[<img src="./imgs/thumbnails/self-thumbnail.jpeg" width="200"/>][about-me]|[About me][about-me]|
 |:----:|:----|
-|[<img src="./imgs/thumbnails/thesis-thumbnail.jpeg" width="200"/>](./pages/thesis.md)|**[Undergraduate thesis on cable steering](./pages/thesis.md)**|
-|[<img src="./imgs/thumbnails/BWSC-thumbnail.jpeg" width="200"/>](./pages/BWSC.md)|**[Competing with TeamArrow in the World Solar Challenge (BWSC)](./pages/BWSC.md)**|
-|[<img src="./imgs/thumbnails/traineeship-thumbnail.jpeg"  width="200"/>](./pages/traineeship.md)|**[Certificate II in Engineering](./pages/traineeship.md)**|
-|[<img src="./imgs/thumbnails/FMECA-thumbnail.jpeg" width="200"/>](./pages/TMP-FMECA.md)|**[TMP/FMECA development](./pages/TMP-FMECA.md)**|
-|[<img src="./imgs/thumbnails/plotly-thumbnail.jpeg" width="200"/>](./pages/plotly.md)|**[Python plotly-dash dashboard](./pages/plotly.md)**|
-|[<img src="./imgs/thumbnails/seaborn-thumbnail.jpeg" width="200"/>](./pages/sklearn.md)|**[Python machine learning classifier](./pages/sklearn.md)**|
-|[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" width="200"/>](./pages/hobbies.md)|**[Hobbies & personal projects](./pages/hobbies.md)**|
+|[<img src="./imgs/thumbnails/thesis-thumbnail.jpeg" width="200"/>][thesis]|**[Undergraduate thesis on cable steering][thesis]**|
+|[<img src="./imgs/thumbnails/BWSC-thumbnail.jpeg" width="200"/>][BWSC]|**[Competing with TeamArrow in the World Solar Challenge (BWSC)][BWSC]**|
+|[<img src="./imgs/thumbnails/traineeship-thumbnail.jpeg"  width="200"/>][traineeship]|**[Certificate II in Engineering][traineeship]**|
+|[<img src="./imgs/thumbnails/FMECA-thumbnail.jpeg" width="200"/>][TMP-FMECA]|**[TMP/FMECA development][TMP-FMECA]**|
+|[<img src="./imgs/thumbnails/plotly-thumbnail.jpeg" width="200"/>][plotly]|**[Python plotly-dash dashboard][plotly]**|
+|[<img src="./imgs/thumbnails/seaborn-thumbnail.jpeg" width="200"/>][plotly]|**[Python machine learning classifier][sklearn]**|
+|[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" width="200"/>][hobbies]|**[Hobbies & personal projects][hobbies]**|
 
 
 [about-me]: ./pages/about-me.md "About me"
+[thesis]: ./pages/thesis.md "My Honours thesis"
+[BWSC]: ./pages/BWSC.md "Competing in the World Solar Challenge"
+[traineeship]: ./pages/traineeship.md "Working as a Fitter"
+[TMP-FMECA]: ./pages/TMP-FMECA.md "Building TMPs and FMECAs for operational and cost effectiveness"
+[plotly]: ./pages/plotly.md "Building an interactive dashboard with Python"
+[sklearn]: ./pages/sklearn.md "Using an ML Classifier to visualise machine drift"
+[hobbies]: ./pages/hobbies.md "Personal projects and hobbies"
+
+
 
 
 <link href="./pages/style.css" type="text/css" rel="stylesheet">

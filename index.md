@@ -21,7 +21,7 @@ Thanks for checking out my page. While you're here, please take a look below at 
 |[<img src="./imgs/thumbnails/traineeship-thumbnail.jpeg"  width="200"/>][traineeship]|**[Certificate II in Engineering][traineeship]**|
 |[<img src="./imgs/thumbnails/FMECA-thumbnail.jpeg" width="200"/>][TMP-FMECA]|**[TMP/FMECA development][TMP-FMECA]**|
 |[<img src="./imgs/thumbnails/plotly-thumbnail.jpeg" width="200"/>][plotly]|**[Python plotly-dash dashboard][plotly]**|
-|[<img src="./imgs/thumbnails/seaborn-thumbnail.jpeg" width="200"/>][plotly]|**[Python machine learning classifier][sklearn]**|
+|[<img src="./imgs/thumbnails/seaborn-thumbnail.jpeg" width="200"/>][sklearn]|**[Python machine learning classifier][sklearn]**|
 |[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" width="200"/>][hobbies]|**[Hobbies & personal projects][hobbies]**|
 
 

@@ -5,12 +5,12 @@
 
 **My background/education:**<br>
 I grew up in Brisbane, Australia, where I studied at the Queensland University of Technology. 
-I Completed a Bachelor of Engineering (Honours), Mechanical major and minors of Software Engineering and IT Breadth. <br>
-Before going to university I completed a Certificate II in Engineering, working with tradespeople to maintain equipment. 
-I also completed an exchange program, spending a semester abroad in Birmingham UK during university. <br>
+I completed a Bachelor of Engineering (Honours), Mechanical major and minors of Software Engineering and IT Breadth. <br>
+Before going to university I completed a Certificate II in Engineering, working with tradespeople to maintain plant assets and repair equipment. 
+In 2018/19 I completed an exchange program, spending a semester abroad in Birmingham UK. <br>
 
 
-| Bs Engineering (Hons) |
+| Bachelor of Engineering (Honours) |
 |:---|
 | **Major:** Mechanical |
 | **Minors:** Software & IT |

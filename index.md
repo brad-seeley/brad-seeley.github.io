@@ -25,6 +25,11 @@ Thanks for checking out my page. While you're here, please take a look below at 
 |[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" width="200"/>][hobbies]|**[Hobbies & personal projects][hobbies]**|
 
 
+
+
+<link href="./pages/style.css" type="text/css" rel="stylesheet">
+
+
 [about-me]: ./pages/about-me.md "About me"
 [thesis]: ./pages/thesis.md "My Honours thesis"
 [BWSC]: ./pages/BWSC.md "Competing in the World Solar Challenge"
@@ -33,8 +38,3 @@ Thanks for checking out my page. While you're here, please take a look below at 
 [plotly]: ./pages/plotly.md "Building an interactive dashboard with Python"
 [sklearn]: ./pages/sklearn.md "Using an ML Classifier to visualise machine drift"
 [hobbies]: ./pages/hobbies.md "Personal projects and hobbies"
-
-
-
-
-<link href="./pages/style.css" type="text/css" rel="stylesheet">

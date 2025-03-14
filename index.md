@@ -31,10 +31,10 @@ Thanks for checking out my page. While you're here, please take a look below at 
 
 
 [about-me]: ./pages/about-me "About me"
-[thesis]: ./pages/thesis.md "My Honours thesis"
-[BWSC]: ./pages/BWSC.md "Competing in the World Solar Challenge"
-[traineeship]: ./pages/traineeship.md "Working as a Fitter"
-[TMP-FMECA]: ./pages/TMP-FMECA.md "Building TMPs and FMECAs for operational and cost effectiveness"
-[plotly]: ./pages/plotly.md "Building an interactive dashboard with Python"
-[sklearn]: ./pages/sklearn.md "Using an ML Classifier to visualise machine drift"
-[hobbies]: ./pages/hobbies.md "Personal projects and hobbies"
+[thesis]: ./pages/thesis "My Honours thesis"
+[BWSC]: ./pages/BWSC "Competing in the World Solar Challenge"
+[traineeship]: ./pages/traineeship "Working as a Fitter"
+[TMP-FMECA]: ./pages/TMP-FMECA "Building TMPs and FMECAs for operational and cost effectiveness"
+[plotly]: ./pages/plotly "Building an interactive dashboard with Python"
+[sklearn]: ./pages/sklearn "Using an ML Classifier to visualise machine drift"
+[hobbies]: ./pages/hobbies "Personal projects and hobbies"

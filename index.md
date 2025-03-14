@@ -30,7 +30,7 @@ Thanks for checking out my page. While you're here, please take a look below at 
 <link href="./pages/style.css" type="text/css" rel="stylesheet">
 
 
-[about-me]: ./pages/about-me.md "About me"
+[about-me]: ./pages/about-me "About me"
 [thesis]: ./pages/thesis.md "My Honours thesis"
 [BWSC]: ./pages/BWSC.md "Competing in the World Solar Challenge"
 [traineeship]: ./pages/traineeship.md "Working as a Fitter"

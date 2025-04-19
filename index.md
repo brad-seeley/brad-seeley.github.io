@@ -16,13 +16,14 @@ Thanks for checking out my page. While you're here, please take a look below at 
 
 |[<img src="./imgs/thumbnails/self-thumbnail.jpeg" width="200"/>][about-me]|[About me][about-me]|
 |:----:|:----|
-|[<img src="./imgs/thumbnails/thesis-thumbnail.jpeg" width="200"/>][thesis]|**[Undergraduate thesis on cable steering][thesis]**|
-|[<img src="./imgs/thumbnails/BWSC-thumbnail.jpeg" width="200"/>][BWSC]|**[Competing with TeamArrow in the World Solar Challenge (BWSC)][BWSC]**|
-|[<img src="./imgs/thumbnails/traineeship-thumbnail.jpeg"  width="200"/>][traineeship]|**[Certificate II in Engineering][traineeship]**|
-|[<img src="./imgs/thumbnails/FMECA-thumbnail.jpeg" width="200"/>][TMP-FMECA]|**[TMP/FMECA development][TMP-FMECA]**|
-|[<img src="./imgs/thumbnails/plotly-thumbnail.jpeg" width="200"/>][plotly]|**[Python plotly-dash dashboard][plotly]**|
-|[<img src="./imgs/thumbnails/seaborn-thumbnail.jpeg" width="200"/>][sklearn]|**[Python machine learning classifier][sklearn]**|
-|[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" width="200"/>][hobbies]|**[Hobbies & personal projects][hobbies]**|
+|[<img src="./imgs/thumbnails/thesis-thumbnail.jpeg" width="200"/>][thesis]	|**[Undergraduate thesis on cable steering][thesis]**	|
+|[<img src="./imgs/thumbnails/BWSC-thumbnail.jpeg" width="200"/>][BWSC]		|**[Competing with TeamArrow in the World Solar Challenge (BWSC)][BWSC]**|
+|[<img src="./imgs/thumbnails/traineeship-thumbnail.jpeg"  width="200"/>][traineeship]|**[Certificate II in Engineering][traineeship]**	|
+|[<img src="./imgs/thumbnails/FMECA-thumbnail.jpeg" width="200"/>][TMP-FMECA]	|**[TMP/FMECA development][TMP-FMECA]**			|
+|[<img src="./imgs/thumbnails/plotly-thumbnail.jpeg" width="200"/>][plotly]	|**[Python plotly-dash dashboard][plotly]**		|
+|[<img src="./imgs/thumbnails/seaborn-thumbnail.jpeg" width="200"/>][sklearn]	|**[Python machine learning classifier][sklearn]**	|
+|[<img src="./imgs/thumbnails/chloe-thumbnail.jpeg" width="200"/>][chloe-cutout]|**[Making an anniversary gift for my partner]**	|
+|[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" width="200"/>][hobbies]	|**[Hobbies & personal projects][hobbies]**		|
 
 
 
@@ -38,3 +39,4 @@ Thanks for checking out my page. While you're here, please take a look below at 
 [plotly]: ./pages/plotly "Building an interactive dashboard with Python"
 [sklearn]: ./pages/sklearn "Using an ML Classifier to visualise machine drift"
 [hobbies]: ./pages/hobbies "Personal projects and hobbies"
+[chloe-cutout]: ./pages/chloe-cutout "Making a gift for my partner on our fifth anniversary"

@@ -8,7 +8,7 @@ While we are enjoying living in London, we both (understandably) miss a few thin
 As a gift for this occassion, I wanted to make something sentimental - we already buy enough chocolates as it is!
 <br>
 
-I was initially inspired by the 3D bandsaw reindeer, however after hours of CAD I still couldn't make it resemble a dog using cuts in only three dimensions. 
+I was initially inspired by the 3D bandsaw reindeer, however after hours of CAD I still couldn't make it resemble a dog using cuts in only three dimensions. <br>
 It was soon the day before the anniversary, and I had to get it moving. 
 <br>
 
@@ -17,8 +17,8 @@ After some time setting up, and ensuring the bandsaw blade had adequate tension,
 <br> 
 
 The initial block of timber was far too thick, making Chloe resemble the Michelin man. <br>
-I passed it through the bandsaw using the fence, taking thin offcuts until I got to a width I was happy with. 
-_(This had the added benefit of making multiple chloe cutouts!)_
+I passed it through the bandsaw using the fence, taking thin offcuts until I got to a width I was happy with 
+_(this had the added benefit of making multiple chloe cutouts!)_ <br>
 Finally I sanded the surfaces and edges, and added varnish as a surface finish.
 <br>
 

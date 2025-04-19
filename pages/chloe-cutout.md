@@ -26,7 +26,8 @@ The next day when I gave it to Jess, she was totally surprised and, more importa
 
 
 [<img src="./../../imgs/medium/chloe-drawing.jpeg" alt="Design process: from image to sketch to cutout" width="450">](./../../imgs/full/chloe-drawing.jpeg)
-[<img src="./../../imgs/medium/chloe-cutout.jpeg" alt="The finished product" width="450">](./../../imgs/full/chloe-cutout.jpeg)
+[<img src="./../../imgs/medium/chloe-cutout-1.jpeg" alt="The finished product" width="450">](./../../imgs/full/chloe-cutout-1.jpeg)
+[<img src="./../../imgs/medium/chloe-cutout-2.jpeg" alt="The 'multiple' Chloes!" width="450">](./../../imgs/full/chloe-cutout-2.jpeg)
 
 
 

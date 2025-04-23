@@ -10,6 +10,14 @@ Thanks for checking out my page. While you're here, please take a look below at 
 [<img src="./imgs/medium/self-pic.jpeg" height="400">](./imgs/full/self-pic.jpeg)
 
 
+**A brief blurb on Brad**<br>
+- From Brisbane, Australia; living in the United Kingdom
+- Bachelor's (Honours) degree in Mechanical & Software Engineering
+- Hobbies include working on cars (conventional and solar)
+- Five years experience in TeamArrow, competing in the World Solar Challenge
+- Professional experience in consulting, mining, aviation - working as an analyst, maintenance and software engineer
+
+
 **[My LinkedIn profile](https://www.linkedin.com/in/brad-seeley/)** <br>
 
 ### Read more about: 

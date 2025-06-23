@@ -18,7 +18,7 @@ Thanks for checking out my page. While you're here, please take a look below at 
 - Professional experience in consulting, mining, aviation - working as an analyst, maintenance and software engineer
 
 
-**[My LinkedIn profile](https://www.linkedin.com/in/brad-seeley/)** <br>
+**[My LinkedIn profile](https://www.linkedin.com/in/brad-seeley/)   |**   [Send me an email](mailto:[brad-email]) - [brad-email]<br>
 
 ### Read more about: 
 
@@ -48,3 +48,4 @@ Thanks for checking out my page. While you're here, please take a look below at 
 [sklearn]: ./pages/sklearn "Using an ML Classifier to visualise machine drift"
 [hobbies]: ./pages/hobbies "Personal projects and hobbies"
 [chloe-cutout]: ./pages/chloe-cutout "Making a gift for my partner on our fifth anniversary"
+[brad-email]: contact@brad-seeley.com

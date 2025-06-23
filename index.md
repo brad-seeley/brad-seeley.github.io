@@ -18,8 +18,8 @@ Thanks for checking out my page. While you're here, please take a look below at 
 - Professional experience in consulting, mining, aviation - working as an analyst, maintenance and software engineer
 
 ### Get in touch** <br>
-Reach out on my [LinkedIn profile](https://www.linkedin.com/in/brad-seeley/) <br>
-Or [send me an email](mailto:contact@brad-seeley.com) - contact@brad-seeley.com<br>
+Reach out on my **[LinkedIn profile](https://www.linkedin.com/in/brad-seeley/)** <br>
+Or **[send me an email](mailto:contact@brad-seeley.com)** - contact@brad-seeley.com<br>
 
 ### Read more about: 
 

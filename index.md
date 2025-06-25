@@ -32,6 +32,7 @@ Or **[send me an email](mailto:contact@brad-seeley.com)** - contact@brad-seeley.
 |[<img src="./imgs/thumbnails/plotly-thumbnail.jpeg" width="200"/>][plotly]	|**[Python plotly-dash dashboard][plotly]**			|
 |[<img src="./imgs/thumbnails/seaborn-thumbnail.jpeg" width="200"/>][sklearn]	|**[Python machine learning classifier][sklearn]**		|
 |[<img src="./imgs/thumbnails/chloe-thumbnail.jpeg" width="200"/>][chloe-cutout]|**[Making an anniversary gift for my partner][chloe-cutout]**	|
+|[<img src="./imgs/thumbnails/timber-glasses-thumbnail.jpeg" width="200"/>][timber-glasses]|**[A fun project of trying to make timber frames for my glasses][timber-glasses]**	|
 |[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" width="200"/>][hobbies]	|**[Hobbies & personal projects][hobbies]**			|
 
 
@@ -49,4 +50,5 @@ Or **[send me an email](mailto:contact@brad-seeley.com)** - contact@brad-seeley.
 [sklearn]: ./pages/sklearn "Using an ML Classifier to visualise machine drift"
 [hobbies]: ./pages/hobbies "Personal projects and hobbies"
 [chloe-cutout]: ./pages/chloe-cutout "Making a gift for my partner on our fifth anniversary"
+[timber-glasses]: ./pages/timber-glasses "Reverse engineering a pair of glasses to fit some existing lenses"
 [brad-email]: contact@brad-seeley.com

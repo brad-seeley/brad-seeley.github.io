@@ -18,7 +18,7 @@ Later revisions could add features like hinges, but for v1, simplicity was the n
 <br>
 
 Taking a photo of the lens, with a ruler in frame to use for scale, I was able to use this as the basis for a CAD sketch. 
-I used [photopea.com](photopea) (an online photoshop alternative) to remove the backgrounds and isolate just the ruler and the outer profile that I needed. <br>
+I used [photopea](https://photopea.com) (an online photoshop alternative) to remove the backgrounds and isolate just the ruler and the outer profile that I needed. <br>
 <br>
 [<img src="./../../imgs/medium/timber-glasses-process-1.jpeg" alt="Design process: image of lens with ruler for scaling in software. " width="450">](./../../imgs/full/timber-glasses-process-1.jpeg)
 [<img src="./../../imgs/medium/timber-glasses-process-2.jpeg" alt="Design process: Selecting only the relevant profiles using Photopea. " width="450">](./../../imgs/full/timber-glasses-process-2.jpeg)
@@ -36,7 +36,7 @@ This version, v1, was 3 laser cut parts, that could initally be glued together. 
 
 When adding the lenses, I thought I must have had my prescription backwards, or maybe my eyes had changed. Sadly upon further inspection, I noticed these were not prescription lenses, merely the display lenses that the glasses were manufactured with. <br>
 While the people I had shown the first prototype to were very supportive, saying things like "oh they will still make nice safety glasses", it wasn't what I was looking for this time. <br>
-Fortunately for me, these were cheap glasses, so I ordered a full replacement set online from [SmartBuyGlasses](smartbuyglasses.co.uk), so that I could have some proper lenses to test with. 
+Fortunately for me, these were cheap glasses, so I ordered a full replacement set online from [SmartBuyGlasses](https://smartbuyglasses.co.uk), so that I could have some proper lenses to test with. 
 <br>
 These fit well, and I was quite happy with the assembled frame, but more work was needed (including new lenses). <br>
 [<img src="./../../imgs/medium/timber-glasses-v1-glue-up.jpeg" alt="Glueing up the v1 frame." width="350">](./../../imgs/full/timber-glasses-v1-glue-up.jpeg)

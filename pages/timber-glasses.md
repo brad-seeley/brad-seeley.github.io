@@ -38,7 +38,7 @@ When adding the lenses, I thought I must have had my prescription backwards, or 
 While the people I had shown the first prototype to were very supportive, saying things like "oh they will still make nice safety glasses", it wasn't what I was looking for this time. <br>
 Fortunately for me, these were cheap glasses, so I ordered a full replacement set online from [SmartBuyGlasses](smartbuyglasses.co.uk), so that I could have some proper lenses to test with. 
 <br>
-These fit well, and I was quite happy with the assembled frame, but more work was needed (including new lenses). 
+These fit well, and I was quite happy with the assembled frame, but more work was needed (including new lenses). <br>
 [<img src="./../../imgs/medium/timber-glasses-v1-glue-up.jpeg" alt="Glueing up the v1 frame." width="450">](./../../imgs/full/timber-glasses-v1-glue-up.jpeg)
 [<img src="./../../imgs/medium/timber-glasses-v1-assembled.jpeg" alt="The v1 frame once assembled." width="450">](./../../imgs/full/timber-glasses-v1-asssembled.jpeg)
 [<img src="./../../imgs/medium/timber-glasses-v1-success.jpeg" alt="First check - success!" width="450">](./../../imgs/full/timber-glasses-v1-success.jpeg)
@@ -60,7 +60,7 @@ V3 and beyond is still yet to come. The list of features to be added are:
 - test (even) wider lens cutout, vs instepped rabbet cut from the router. 
 - Thinner or different materials. 
 
-**_Watch this space. _**
+***Watch this space.***
 
 
 

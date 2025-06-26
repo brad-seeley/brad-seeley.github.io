@@ -11,9 +11,7 @@ When I ordered these glasses they came with a spare pair of lenses, how great! O
 
 After I broke the frame of my glasses, I (foolishly) threw them out, not thinking I could still make use of them. <br>
 While procrastinating ordering replacements online, I remembered these spare lenses, and decided I should make my own frames to put them to use. <br>
-<p align=center>
-[<img src="./../../imgs/medium/make-own-glasses-meme.jpeg" alt="Me deciding to make my own glasses. " width="300">](./../../imgs/full/make-own-glasses-meme.jpeg) <br>
-</p>
+<p align=center> <img src="./../../imgs/medium/make-own-glasses-meme.jpeg" alt="Me deciding to make my own glasses." width="300"> </p>
 
 The goal was to make something simple, that I could make with relative precision (not hand carved), using tools available at my local Hackspace (or Makerspace). 
 Later revisions could add features like hinges, but for v1, simplicity was the name of the game. 

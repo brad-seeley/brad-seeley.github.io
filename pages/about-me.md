@@ -10,7 +10,7 @@ In 2018/19 I completed an exchange program, spending a semester abroad in Birmin
 		<td style="width:50%" rowspan="2"><a href="./../../imgs/full/personal-pic.jpeg"><img src="./../../imgs/medium/personal-pic.jpeg" alt="picture of me" height="400"></a></td>
 	</tr>
 	<tr>
-		<td><strong>Bachelor of Engineering (Honours)
+		<td><strong>Bachelor of Engineering (Honours)</strong>
 	<strong>Major: </strong>Mechanical
 	<strong>Minors: </strong>Software & IT</td>
 	</tr>

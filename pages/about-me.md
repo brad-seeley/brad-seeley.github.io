@@ -4,21 +4,28 @@
 
 <table>
 <tr>
-<td>
+<td style="width:50%">
 **My background/education:**<br>
 I grew up in Brisbane, Australia, where I studied at the Queensland University of Technology. 
 I completed a Bachelor of Engineering (Honours), Mechanical major and minors of Software Engineering and IT Breadth. <br>
 Before going to university I completed a Certificate II in Engineering, working with tradespeople to maintain plant assets and repair equipment. 
 In 2018/19 I completed an exchange program, spending a semester abroad in Birmingham UK. <br>
-</td><td rowspan="2">
-[<img src="./../../imgs/medium/personal-pic.jpeg" alt="picture of me" height="400">](./../../imgs/full/personal-pic.jpeg)
+</td><td style="width:50%" rowspan="2">
+<a href="./../../imgs/full/personal-pic.jpeg"><img src="./../../imgs/medium/personal-pic.jpeg" alt="picture of me" height="400"></a>
 </td></tr>
 <tr><td>
+<table><tr><th>Bachelor of Engineering (Honours)</th></tr>
+<tr><td><b>Major: </b>Mechanical</td></tr>
+<tr><td><b>Minors: </b>Software & IT</td></tr></table>
+
+</td></tr></table>
+
+
+
 | Bachelor of Engineering (Honours) |
 |:---|
 | **Major:** Mechanical |
 | **Minors:** Software & IT |
-</td></tr></table>
 
 **My professional experience:**<br>
 I have been working as an analyst/consultant for almost 7 years now. 

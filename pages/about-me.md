@@ -34,7 +34,7 @@ I moved to the UK with my partner to grow our personal and professional experien
 Jess works in marketing in central London, and the exposure for both of us to the larger industries in the UK is incredible. 
 <br>
 
-<div style="text align: center;">
+<div class="center">
 <a href="./../../imgs/full/grad-with-parents.jpeg">
 <img src="./../../imgs/medium/grad-with-parents.jpeg" alt="picture of me" height="400" class="center">
 </a> </div>

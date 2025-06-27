@@ -8,7 +8,7 @@ While we are enjoying living in London, we both (understandably) miss a few thin
 As a gift for this occassion, I wanted to make something sentimental - we already buy enough chocolates as it is!
 <br>
 
-I was initially inspired by the 3D bandsaw reindeer, however after hours of CAD I still couldn't make it resemble a dog using cuts in only three dimensions. <br>
+I was initially inspired by the popular [3D bandsaw reindeer](https://www.etsy.com/uk/search?q=bandsaw+reindeer), however after hours of CAD I still couldn't make it resemble a dog using cuts in only three dimensions. <br>
 It was soon the day before the anniversary, and I had to get it moving. 
 <br>
 

@@ -2,27 +2,17 @@
 
 <table>
 	<tr>
-		<th style="width:50%">My background/education:</th>
-		<th style="width:50%">  </th></tr>
-	<tr>
-		<td>I grew up in Brisbane, Australia, where I studied at the Queensland University of Technology. 
+		<td style="width:50%"><strong>My background/education:</strong>
+I grew up in Brisbane, Australia, where I studied at the Queensland University of Technology. 
 I completed a Bachelor of Engineering (Honours), Mechanical major and minors of Software Engineering and IT Breadth. <br>
 Before going to university I completed a Certificate II in Engineering, working with tradespeople to maintain plant assets and repair equipment. 
 In 2018/19 I completed an exchange program, spending a semester abroad in Birmingham UK. <br> </td>
 		<td style="width:50%" rowspan="2"><a href="./../../imgs/full/personal-pic.jpeg"><img src="./../../imgs/medium/personal-pic.jpeg" alt="picture of me" height="400"></a></td>
 	</tr>
 	<tr>
-		<td><table>
-			<tr>
-				<th>Bachelor of Engineering (Honours)</th>
-			</tr>
-			<tr>	
-				<td><strong>Major: </strong>Mechanical</td>
-			</tr>
-			<tr>	
-				<td><strong>Minors: </strong>Software & IT</td>
-			</tr>
-		</table></td>
+		<td><strong>Bachelor of Engineering (Honours)
+	<strong>Major: </strong>Mechanical
+	<strong>Minors: </strong>Software & IT</td>
 	</tr>
 </table>
 

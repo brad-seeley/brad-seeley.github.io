@@ -36,7 +36,7 @@ Jess works in marketing in central London, and the exposure for both of us to th
 
 <div style="text align: center;">
 <a href="./../../imgs/full/grad-with-parents.jpeg">
-<img src="./../../imgs/medium/grad-with-parents.jpeg" alt="picture of me" height="400">
+<img src="./../../imgs/medium/grad-with-parents.jpeg" alt="picture of me" height="400" class="center">
 </a> </div>
 
 

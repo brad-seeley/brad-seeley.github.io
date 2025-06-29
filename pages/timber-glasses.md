@@ -25,9 +25,9 @@ I used [photopea](https://photopea.com) (an online photoshop alternative) to rem
 
 <br>
 
-Then using SolidWorks, I imported the picture using the Sketch Picture tool (sketch -> Tools/Sketch Tools/Sketch Picture), and drew a spline along the profile. <br>
-Then copying that curve using the Offset Entities feature, I created the outer part of the frame. Adding a centreline, I mirrored these components to make the other side, before drawing a nose bridge and side wings to attach the arms.
-This version, v1, was 3 laser cut parts, that could initally be glued together. The frame needed some minor adjustment to fit the lenses, but v1 was a success. <br>
+Then using SolidWorks, I imported the picture using the Sketch Picture tool (sketch -> Tools/Sketch Tools/Sketch Picture), and drew a spline along the profile for the cutout <br>
+I copied that curve using the Offset Entities feature, I created the outer part of the frame. Adding a centreline, I mirrored these components to make the other side, before drawing a nose bridge and side wings to attach the arms.
+This version, v1, was 3 laser cut parts, that could be glued together. The frame needed some minor adjustment to fit the lenses, but v1 was a success. <br>
 [<img src="./../../imgs/medium/timber-glasses-SolidWorks-Sketch-Picture-tool.jpeg" alt="Sketching the profile in SolidWorks. " width="450">](./../../imgs/full/timber-glasses-SolidWorks-Sketch-Picture-tool.jpeg)
 [<img src="./../../imgs/medium/timber-glasses-lens-spline-v1.jpeg" alt="Lens profile sketched using SolidWorks spline tool. " width="450">](./../../imgs/full/timber-glasses-lens-spline-v1.jpeg)
 [<img src="./../../imgs/medium/timber-glasses-v1-assembly.jpeg" alt="Image of assembly in CAD. " width="450">](./../../imgs/full/timber-glasses-v1-assembly.jpeg)
@@ -35,8 +35,8 @@ This version, v1, was 3 laser cut parts, that could initally be glued together. 
 <br>
 
 When adding the lenses, I thought I must have had my prescription backwards, or maybe my eyes had changed. Sadly upon further inspection, I noticed these were not prescription lenses, merely the display lenses that the glasses were manufactured with. <br>
-While the people I had shown the first prototype to were very supportive, saying things like "oh they will still make nice safety glasses", it wasn't what I was looking for this time. <br>
-Fortunately for me, these were cheap glasses, so I ordered a full replacement set online from [SmartBuyGlasses](https://smartbuyglasses.co.uk), so that I could have some proper lenses to test with. 
+While the people I had shown the first prototype to were very supportive, saying things like "oh they will still make nice safety glasses", it wasn't what I was looking for. <br>
+Fortunately for me, these were cheap glasses, so I ordered a replacement pair online from [SmartBuyGlasses](https://smartbuyglasses.co.uk), to have some proper lenses to test with. 
 <br>
 These fit well, and I was quite happy with the assembled frame, but more work was needed (including new lenses). <br>
 [<img src="./../../imgs/medium/timber-glasses-v1-glue-up.jpeg" alt="Glueing up the v1 frame." width="350">](./../../imgs/full/timber-glasses-v1-glue-up.jpeg)
@@ -46,8 +46,8 @@ These fit well, and I was quite happy with the assembled frame, but more work wa
 <br>
 
 
-For v2 I decided it needed to be easier to assemble the glasses, but I wanted to get a comfortable frame profile before adding more complexity. <br>
-This saw me using a mortise & tenon system to join the arms to the frame. This worked well, where I could assemble the glasses without glue and still have a strong structure. <br>
+For v2 I decided it needed to be easier to assemble the glasses, but I wanted to get a comfortable frame profile before adding complexity. <br>
+I opted for a mortise & tenon system to join the arms to the frame. This worked well, where I could assemble the glasses without glue and still have a strong structure. <br>
 I also re-sketched the lens drawing, making it wider than v1, as I hadn't accounted for the extra thickness that my full prescription would add. <br>
 [<img src="./../../imgs/medium/timber-glasses-v2-assembled.jpeg" alt="First test (glue not required)." width="400">](./../../imgs/full/timber-glasses-v2-assembled.jpeg)
 [<img src="./../../imgs/medium/timber-glasses-v2-frame.jpeg" alt="Holding the glasses by the arm to check rigidity." width="350">](./../../imgs/full/timber-glasses-v2-frame.jpeg)

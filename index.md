@@ -29,6 +29,7 @@ Or **[send me an email](mailto:contact@brad-seeley.com)** - contact@brad-seeley.
 |[<img src="./imgs/thumbnails/BWSC-thumbnail.jpeg" width="200"/>][BWSC]		|**[Competing with TeamArrow in the World Solar Challenge (BWSC)][BWSC]**|
 |[<img src="./imgs/thumbnails/traineeship-thumbnail.jpeg"  width="200"/>][traineeship]|**[Certificate II in Engineering][traineeship]**		|
 |[<img src="./imgs/thumbnails/FMECA-thumbnail.jpeg" width="200"/>][TMP-FMECA]	|**[TMP/FMECA development][TMP-FMECA]**				|
+|[<img src="./imgs/thumbnails/component-lives-thumbnail.jpeg" width="200"/>][lifecycle-modelling]	|**[Lifecycle cost modelling][lifecycle-modelling]**	|
 |[<img src="./imgs/thumbnails/plotly-thumbnail.jpeg" width="200"/>][plotly]	|**[Python plotly-dash dashboard][plotly]**			|
 |[<img src="./imgs/thumbnails/seaborn-thumbnail.jpeg" width="200"/>][sklearn]	|**[Python machine learning classifier][sklearn]**		|
 |[<img src="./imgs/thumbnails/chloe-thumbnail.jpeg" width="200"/>][chloe-cutout]|**[Making an anniversary gift for my partner][chloe-cutout]**	|
@@ -46,6 +47,7 @@ Or **[send me an email](mailto:contact@brad-seeley.com)** - contact@brad-seeley.
 [BWSC]: ./pages/BWSC "Competing in the World Solar Challenge"
 [traineeship]: ./pages/traineeship "Working as a Fitter"
 [TMP-FMECA]: ./pages/TMP-FMECA "Building TMPs and FMECAs for operational and cost effectiveness"
+[lifecycle-modelling]: ./pages/lifecycle-modelling "Lifecycle cost modelling for assets to assist operational and financial planning." 
 [plotly]: ./pages/plotly "Building an interactive dashboard with Python"
 [sklearn]: ./pages/sklearn "Using an ML Classifier to visualise machine drift"
 [hobbies]: ./pages/hobbies "Personal projects and hobbies"

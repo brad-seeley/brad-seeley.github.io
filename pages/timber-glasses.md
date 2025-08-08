@@ -52,6 +52,7 @@ I also re-sketched the lens drawing, making it wider than v1, as I hadn't accoun
 [<img src="./../../imgs/medium/timber-glasses-v2-assembled.jpeg" alt="First test (glue not required)." width="400">](./../../imgs/full/timber-glasses-v2-assembled.jpeg)
 [<img src="./../../imgs/medium/timber-glasses-v2-frame.jpeg" alt="Holding the glasses by the arm to check rigidity." width="350">](./../../imgs/full/timber-glasses-v2-frame.jpeg)
 [<img src="./../../imgs/medium/timber-glasses-v2-success.jpeg" alt="Second check - success!" width="350">](./../../imgs/full/timber-glasses-v2-success.jpeg)
+[<img src="./../../imgs/medium/timber-glasses-v2-success.jpeg" alt="Second check - success!" width="350" className="block md:hidden">](./../../imgs/full/timber-glasses-v2-success.jpeg)
 
 <br>
 

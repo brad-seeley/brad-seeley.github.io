@@ -8,6 +8,7 @@ github:
   is_project_page: false
 
 url: "https://brad-seeley.github.io"
+baseurl: 'brad-seeley.github.io'
 
 author:
   name: Brad Seeley

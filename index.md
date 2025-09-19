@@ -35,7 +35,8 @@ Or **[send me an email](mailto:contact@brad-seeley.com)** - contact@brad-seeley.
 |[<img src="./imgs/thumbnails/chloe-thumbnail.jpeg" width="200"/>][chloe-cutout]|**[Making an anniversary gift for my partner][chloe-cutout]**	|
 |[<img src="./imgs/thumbnails/timber-glasses-thumbnail.jpeg" width="200"/>][timber-glasses]|**[A fun project of trying to make timber frames for my glasses][timber-glasses]**	|
 |[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" width="200"/>][hobbies]	|**[Hobbies & personal projects][hobbies]**			|
-|[<img src="./imgs/thumbnails/film-thumbnail.jpeg" width="200"/>][film]	|**[Film Photography][film]**			|
+|[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" width="200"/>][jimny]	|**[My suzuki Jimny; some trials and tribulations...][jimny]**	|
+|[<img src="./imgs/thumbnails/film-thumbnail.jpeg" width="200"/>][film]		|**[Film Photography][film]**					|
 
 
 
@@ -55,5 +56,6 @@ Or **[send me an email](mailto:contact@brad-seeley.com)** - contact@brad-seeley.
 [chloe-cutout]: ./pages/chloe-cutout "Making a gift for my partner on our fifth anniversary"
 [timber-glasses]: ./pages/timber-glasses "Reverse engineering a pair of glasses to fit some existing lenses"
 [film]: film-portfolio "A passtime of film photography"
+[jimny]: jimny "My golden nugget - it is both the light and darkness of my I spend free time."
 
 [brad-email]: contact@brad-seeley.com

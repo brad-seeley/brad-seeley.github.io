@@ -17,3 +17,6 @@
   },
   "homepage": "https://github.com/brad-seeley/brad-seeley.github.io#readme"
 }
+"publishConfig": {
+  "@brad-seeley:registry": "https://npm.pkg.github.com"
+}

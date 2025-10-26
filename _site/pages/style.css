@@ -1,0 +1,19 @@
+@import "minima";
+
+footer {
+    display: none !important;
+}
+
+.btn {
+    display: none !important;
+}
+
+header ul li { display: none }
+header ul { display: none }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}

@@ -57,6 +57,7 @@ Merging on to the motorway, accelerating faster than I've ever been able in the 
 Fan and water pump belt snapped, engine cooking on the motorway. I wait for the tow truck. 
 
 // tow truck picture
+[<img src="./../../imgs/medium/jimny-towtruck.jpeg" alt="The car equivalent to a walk of shame." width="450">](./../../imgs/full/jimny-towtruck.jpeg)
 
 The next morning, we (the royal we) assess the damage. And either someone put glitter in my oil, or I've got what will soon be a very unhappy engine. 
 The good news for me, these cars shared the same engines as Swifts, Lianas, and a handful of other Suzukis. 

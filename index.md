@@ -1,11 +1,14 @@
+<!-- 
 # Engineering & Professional Portfolio
 
 ## Brad Seeley
+-->
 
-
-Hi there, <br>
+Welcome to my corner of the internet. <br>
 My name is Brad Seeley. I am a mechanical and software engineer living in the UK. <br>
-Thanks for checking out my page. While you're here, please take a look below at some of the projects I have worked on. 
+
+Thanks for stopping by to check out my page. <br>
+While you're here, why don't you take a look below at some of the things I've been working on. 
 
 [<img src="./imgs/medium/self-pic.jpeg" height="400">](./imgs/full/self-pic.jpeg)
 
@@ -13,7 +16,7 @@ Thanks for checking out my page. While you're here, please take a look below at 
 **A brief blurb on Brad**
 - From Brisbane, Australia; living in the United Kingdom
 - Bachelor's (Honours) degree in Mechanical & Software Engineering
-- Hobbies include working on cars (conventional and solar)
+- Hobbies include working on cars (conventional and solar), or any other things that move
 - Five years experience in TeamArrow, competing in the World Solar Challenge
 - Professional experience in consulting, mining, aviation - working as an analyst, maintenance and software engineer
 

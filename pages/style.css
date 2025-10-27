@@ -20,3 +20,9 @@ header ul { display: none }
   margin-right: auto;
 
 }
+
+
+h3 {
+  margin-top: 2px;
+  margin-bottom: 5px;
+}

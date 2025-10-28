@@ -13,18 +13,19 @@ While you're here, why don't you take a look below at some of the things I've be
 [<img src="./imgs/medium/self-pic.jpeg" height="400">](./imgs/full/self-pic.jpeg)
 
 
-**A brief blurb on Brad**
+<h4 id="blurb">A brief blurb on Brad</h4>
 - From Brisbane, Australia; living in the United Kingdom
 - Bachelor's (Honours) degree in Mechanical & Software Engineering
+- Currently working as a TA, enjoying the fun (and challenges) of connecting with young students 
 - Hobbies include working on cars (conventional and solar), or any other things that move
 - Five years experience in TeamArrow, competing in the World Solar Challenge
-- Professional experience in consulting, mining, aviation - working as an analyst, maintenance and software engineer
+- Professional experience in consulting, mining, aviation - working as an analyst, and maintenance/software engineer
 
-### Get in touch 
+<h4 id="contact">Get in touch</h4>
 Reach out on my **[LinkedIn profile](https://www.linkedin.com/in/brad-seeley/)** <br>
 Or **[send me an email](mailto:contact@brad-seeley.com)** - contact@brad-seeley.com<br>
 
-### Read more about: 
+<h3 id="read-more">Read more about: </h3>
 
 |[<img src="./imgs/thumbnails/self-thumbnail.jpeg" width="200"/>][about-me]|[About me][about-me]|
 |:----:|:----|
@@ -37,7 +38,7 @@ Or **[send me an email](mailto:contact@brad-seeley.com)** - contact@brad-seeley.
 |[<img src="./imgs/thumbnails/seaborn-thumbnail.jpeg" width="200"/>][sklearn]	|**[Python machine learning classifier][sklearn]**		|
 |[<img src="./imgs/thumbnails/chloe-thumbnail.jpeg" width="200"/>][chloe-cutout]|**[Making an anniversary gift for my partner][chloe-cutout]**	|
 |[<img src="./imgs/thumbnails/timber-glasses-thumbnail.jpeg" width="200"/>][timber-glasses]|**[A fun project of trying to make timber frames for my glasses][timber-glasses]**	|
-|[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" width="200"/>][hobbies]	|**[Hobbies & personal projects][hobbies]**			|
+|[<img src="./imgs/thumbnails/jimny-bikes-thumbnail.jpeg" width="200"/>][hobbies]|**[Hobbies & personal projects][hobbies]**			|
 |[<img src="./imgs/thumbnails/jimny-thumbnail.jpeg" width="200"/>][jimny]	|**[My suzuki Jimny; some trials and tribulations...][jimny]**	|
 |[<img src="./imgs/thumbnails/film-thumbnail.jpeg" width="200"/>][film]		|**[Film Photography][film]**					|
 
